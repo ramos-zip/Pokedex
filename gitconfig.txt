@@ -1,0 +1,5 @@
+git config --global user.name ramos-zip
+git config --global user.eemail enzoramos40953@gmail.com
+
+-- Criar um projeto React Native
+npx create-expo-app@latest pokedex
