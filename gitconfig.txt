@@ -5,3 +5,5 @@ git config --global user.email enzoramos40953@gmail.com
 npx create-expo-app@latest pokedex
 
 npm i @expo/vector-icons
+
+npx expo start --android
