@@ -5,6 +5,7 @@ import Button from "../Button";
 import { useRouter } from "expo-router";
 
 export default function Card({ pokemon }) {
+    const router = useRouter();
     return(
         <TouchableOpacity
             onPress={() => 
