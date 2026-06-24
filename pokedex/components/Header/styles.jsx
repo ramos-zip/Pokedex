@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const styles = StylesSheet.create({
+export const styles = StyleSheet.create({
     container: {
         marginBttom: 10,
     },
